@@ -1,5 +1,5 @@
 /* ==================================================
-   Hudson Drug Store — script.js
+   Hudson Drug Store - script.js
    Minimal vanilla JavaScript for:
    1. Mobile navigation toggle
    2. Active nav link highlighting
